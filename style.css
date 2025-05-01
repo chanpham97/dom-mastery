@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f8ff;
+  }
+  
+  #main-title {
+    color: #2c3e50;
+  }
+  
+  .important-text {
+    background-color: #dff9fb;
+    padding: 10px;
+  }
+  
+  .note {
+    color: #34495e;
+    font-style: italic;
+  }
+  
+  button {
+    margin: 10px 10px 10px 0;
+    padding: 8px 12px;
+  }
+  
+  .cancel-button {
+    background-color: #f8d7da;
+  }
+  
+  .footer-text {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #7f8c8d;
+  }
+  
